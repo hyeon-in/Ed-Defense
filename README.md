@@ -53,6 +53,7 @@
 - Nyan Nut
   - [유튜브](https://www.youtube.com/@NutNyan/)
 
+<<<<<<< HEAD
 ### 효과음
 - [Universal Sound FX](https://imphenzia.com/universal-sound-fx)
 
@@ -60,6 +61,8 @@
 - [갈무리](https://galmuri.quiple.dev/)
 - [Neo둥근모](https://neodgm.dalgona.dev/)
 
+=======
+>>>>>>> f827dc06a7402ea12350c49fb1d247ddf3d49501
 ## 참고
 1. **본 게임은 (주)에피드게임즈 사의 모바일 게임 '트릭컬 리바이브'와는 전혀 관계가 없는 비공식 팬게임입니다.**
 2. **본 게임은 어떠한 상업적 목적 없이 개인적인 창작 활동으로 제작되었습니다.**
