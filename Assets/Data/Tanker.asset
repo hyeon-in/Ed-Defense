@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c38d2918a8fc9448e2f0b02f2ff479, type: 3}
+  m_Name: Tanker
+  m_EditorClassIdentifier: 
+  defaultHealth: 20
+  defaultMoveSpeed: 0.5
+  attackRange: 0.75
+  coinDropAmount: 8
+  whiteFlashEffectMaterial: {fileID: 2100000, guid: ebb1e4f118d4cd349b7def9656553a73, type: 2}
+  hitSound: {fileID: 8300000, guid: edd21ad960f16554892368cd14591568, type: 3}
+  weekendFarmSound: {fileID: 8300000, guid: 6c40c5199f0cffb42bee838f819dd348, type: 3}
