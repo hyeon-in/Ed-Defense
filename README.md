@@ -1,9 +1,6 @@
 # 이드 디펜스
-
-<p align="center">
-  <img src="./Img/Screenshot.png" alt="스크린샷" />
-</p>
-
+▼ 아래 이미지를 클릭하면 유튜브의 게임 플레이 영상으로 이동합니다.
+[![게임 플레이 영상](./Img/Screenshot.png)](https://www.youtube.com/watch?v=Pk4qsEhn5A0)
 
 ### [🎮 인터넷에서 바로 플레이하기!](https://hyeon-in.github.io/eddefense/)
 
