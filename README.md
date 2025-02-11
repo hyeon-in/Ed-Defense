@@ -1,12 +1,13 @@
 # 이드 디펜스
-▼ 아래 이미지를 클릭하면 유튜브의 게임 플레이 영상으로 이동합니다.
-[![게임 플레이 영상](./Img/Screenshot.png)](https://www.youtube.com/watch?v=Pk4qsEhn5A0)
+![스크린샷](./Img/Screenshot.png)
 
 ### [🎮 인터넷에서 바로 플레이하기!](https://hyeon-in.github.io/eddefense/)
 
 ### 다운로드
 - [윈도우(Windows)](https://github.com/hyeon-in/Ed-Defense/releases/download/v1.0.0/EdDefense.zip)
 - [안드로이드(Android)](https://github.com/hyeon-in/Ed-Defense/releases/download/v1.0.0/EdDefense.apk)
+
+---
 
 ## 소개
 
